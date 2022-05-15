@@ -1,7 +1,11 @@
 ## Ola eu sou Ivan Campos Lourenco 👋
-
+<p align="center">
+<a href="https://www.linkedin.com/in/ivan-campos-louren%C3%A7o-544a18239/">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Profile" />
+</a>
+</p>
 -->🧠 Estudo Análise e desenvolvimento de Sistemas(2°semestre).
-
+-->💻  Cargo (Desenvolvedor Front End)
 -->📬 ivancampos039@gmail.com
 <div
  align="center">
