@@ -4,9 +4,12 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Profile" />
 </a>
 </p>
--->🧠 Estudo Análise e desenvolvimento de Sistemas(2°semestre).
--->💻  Cargo (Desenvolvedor Front End)
--->📬 ivancampos039@gmail.com
+🧠 Estudo Análise e desenvolvimento de Sistemas(2°semestre)
+</br>
+💻  Cargo (Desenvolvedor Front End)
+</br>
+📬 ivancampos039@gmail.com
+</p>
 <div
  align="center">
   <a href="https://github.com/IvancLourenco">
