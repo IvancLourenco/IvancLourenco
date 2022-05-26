@@ -4,7 +4,7 @@
 
 </a>
 </p>
-🧠 Estudo Análise e desenvolvimento de Sistemas(Em andamento)
+🧠 Estudo Análise e desenvolvimento de sistemas(Em andamento)
 <br>
 💻  Cargo (Desenvolvedor Front End)
 <br>
