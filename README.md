@@ -4,10 +4,12 @@
 
 </a>
 </p>
-🧠 Estudo Análise e desenvolvimento de Sistemas(2°semestre)
-</br>
+🧠 Estudo Análise e desenvolvimento de Sistemas(Em andamento)
+<br>
 💻  Cargo (Desenvolvedor Front End)
-</br>
+<br>
+
+
 
 </p>
 <div
