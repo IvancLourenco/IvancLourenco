@@ -6,7 +6,7 @@
 </p>
 🧠 Estudo Análise e desenvolvimento de sistemas(Em andamento)
 <br>
-🧙🏻 Curso DEVQUEST e Mentoria (Em andamento)
+🧙🏻 Curso DEVQUEST e mentoria (Em andamento)
 <br>
 💻  Cargo (Desenvolvedor Front End)
 <br>
