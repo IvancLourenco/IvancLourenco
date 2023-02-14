@@ -10,6 +10,7 @@
 <br>
 💻  Cargo (Desenvolvedor Front End)
 <br>
+Aqui e onde compartilho meu aprendizado, e meus projetos pessoais em busca de se tornar um Desenvolvedor Front end melhor, atualmente estou estudando React
 
 
 
