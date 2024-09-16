@@ -10,7 +10,7 @@
 <br>
 💻  Cargo (Desenvolvedor Front End)
 <br>
-Este é o lugar onde compartilho meu aprendizado e meus projetos pessoais na busca por me tornar um desenvolvedor Back end melhor. Atualmente, estou focado em aprimorar minhas habilidades em Java.
+Este é o lugar onde compartilho meu aprendizado e meus projetos pessoais na busca por me tornar um desenvolvedor Front End melhor. Atualmente, estou focado em aprimorar minhas habilidades em React.
 
 
 </p>
